@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Big-Kesha/tic-tac-toe/static/css/main.22941023.css",
+    "main.js": "/Big-Kesha/tic-tac-toe/static/js/main.dc94c575.js",
+    "index.html": "/Big-Kesha/tic-tac-toe/index.html",
+    "main.22941023.css.map": "/Big-Kesha/tic-tac-toe/static/css/main.22941023.css.map",
+    "main.dc94c575.js.map": "/Big-Kesha/tic-tac-toe/static/js/main.dc94c575.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22941023.css",
+    "static/js/main.dc94c575.js"
+  ]
+}
